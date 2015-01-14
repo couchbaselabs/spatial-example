@@ -1,6 +1,12 @@
 A simple spatial example with shops
 ===================================
 
+Simple download and run:
+
+1. Grab it from here (the jar) https://github.com/daschl/spatial-example/releases/tag/0.1-pre
+2. Go to step 3 below
+
+
 How to build and run it:
 
 ** Note that you need a 2.1-SNAPSHOT from couchbase-java-client to build it. **
